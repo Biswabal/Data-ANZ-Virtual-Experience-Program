@@ -10,7 +10,7 @@ There were two tasks completed as a part of this program. The tasks were based o
 
 The purpose of this task is to gather overall interesting insights from the data.
 
-Summary of my findings: 
+**Summary of my findings:** 
 
 * Most transaction happens to be on Friday and purchase is the most common type of transaction.
 * Customer prefers to purchase more on Saturdays and Fridays, especially female customers.
@@ -33,7 +33,7 @@ Not so strong correlations were found between annual salary and various customer
 * Male customer's salary tends to increase with age unlike female customers.
 * Female tends spend less and save more as their salary increases unlike male customers.
 
-Summary of my findings and recommendation:
+**Summary of my findings and recommendation:**
 
 | **Model** | **MAE** | **RMSE**
 |:----:|:----:|:----:|
