@@ -31,7 +31,7 @@ The purpose of this task is to identify the annual salary for each customer, to 
 Not so strong correlations were found between annual salary and various customer attributes but few interesting points to note are:
 
 * Male customer's salary tends to increase with age unlike female customers.
-* Female tends spend less and save more as their salary increases unlike male customers.
+* Female tends to spend less and save more as their salary increases unlike male customers.
 
 **Summary of my findings and recommendation:**
 
