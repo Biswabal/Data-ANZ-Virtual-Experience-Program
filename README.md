@@ -4,7 +4,7 @@ This repository contains solution which I have completed as a part of [Data@ANZ 
 
 # About the Program
 
-There were two tasks completed as a part of this program. The tasks were based on a synthesised transaction dataset containing 3 months’ worth of transactions for 100 hypothetical customers. It contains purchases, recurring transactions, and salary transactions. The dataset were designed to simulate realistic transaction behaviours that are observed in ANZ’s real transaction data
+There were two tasks completed as a part of this program, Exploratory Data Analysis and Predictive Analytics. These tasks were based on a synthesised transaction dataset containing 3 months’ worth of transactions for 100 hypothetical customers. It contains purchases, recurring transactions, and salary transactions. The dataset were designed to simulate realistic transaction behaviours that are observed in ANZ’s real transaction data
 
 ## Task 1 Exploratory Data Analysis
 
